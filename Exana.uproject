@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{307881B5-4DB1-7D27-A2FD-B1BBD73954CE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Exana",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
